@@ -397,7 +397,7 @@ height: 30px;
         to bottom, 
         rgba(0,0,0,0) 0%, 
         rgba(17,17,17, 0.6) 100%),
-        url("/images/vR.jpg");
+        url("/images/vrDude.jpg");
     background-size: cover;
     position: relative;
     color: #fff;
@@ -408,7 +408,7 @@ height: 30px;
         to bottom, 
         rgba(0,0,0,0) 0%, 
         rgba(17,17,17, 0.6) 100%),
-        url("/images/circutes.jpg");
+        url("/images/circute.jpg");
 }
 
 .Services h2{
